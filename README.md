@@ -1,36 +1,11 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![WhatsApp Image 2024-08-10 at 18 03 01_4496b05d](https://github.com/user-attachments/assets/cfcaf4d3-6e71-4976-9714-97712a7ff444)
 
-## Getting Started
+![WhatsApp Image 2024-08-10 at 18 03 37_64953ebf](https://github.com/user-attachments/assets/8501d274-5977-46dc-bdcc-fd38d4bf4107)
 
-First, run the development server:
+![WhatsApp Image 2024-08-10 at 18 04 22_b1ac7ac2](https://github.com/user-attachments/assets/32cdb515-76df-42ec-980a-86d06d225225)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+![WhatsApp Image 2024-08-10 at 18 04 22_0324d717](https://github.com/user-attachments/assets/95e7266e-50a8-4b5d-9c49-3d06b73e9a91)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+![WhatsApp Image 2024-08-10 at 18 04 43_5eac0d28](https://github.com/user-attachments/assets/b9b677d2-7825-4546-93ff-9b97f78bda87)
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![WhatsApp Image 2024-08-10 at 18 05 52_38435778](https://github.com/user-attachments/assets/5f6d800d-8c7c-498e-8b56-d9ff4181a8be)
